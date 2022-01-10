@@ -1,9 +1,9 @@
-# girisim-odakli-yapay-zeka-egitimi-2-sorulari
-Girişim Odaklı Yapay Zeka Eğitimi Soruları
+# Girişim Odaklı Yapay Zeka Eğitimi Soruları
 
-> Aşağıdaki sorulardan birini çözmeniz yeterlidir.
 
 Başvuru kabulü için size sorulan soruyu çözmenizden çok, o soruyu çözmek için ne kadar uğraştığınız önemlidir. Motivasyonu yüksek gençlerle çalışmak çok farklı, bunu biliyoruz, sizi önemsiyoruz ve bekliyoruz.
+
+> Aşağıdaki sorulardan birini çözmeniz yeterlidir.
  
 ## Soru 1
 Türkçe doğal dil işleme ve hazır word2vec modelini kullanarak, [Özetleme](https://github.com/kaveai/girisim-odakli-yapay-zeka-egitimi-2-sorulari/blob/main/Soru1.ipynb) yapmanız beklenmektedir
